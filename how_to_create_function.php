@@ -2,7 +2,6 @@
 /**
  * Function Description here. Suppose: Customizing post title for our [Product Name]
  * 
- * @since version
  * @param String $sample_param Its a sample Param
  * @return String NOramlly it will return a Customize Post's Title
  * 
