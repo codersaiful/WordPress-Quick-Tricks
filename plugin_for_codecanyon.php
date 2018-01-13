@@ -21,7 +21,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 * @since 1.0.0
 */
 include_once( ABSPATH . 'wp-admin/includes/plugin.php' );
-$WOO_Table = SPFC_OBJ::getInstance();
+$My_SPFC_OBJ = SPFC_OBJ::getInstance();
 
 /**
  * Main Manager Class for WOO Product Table Plugin.
